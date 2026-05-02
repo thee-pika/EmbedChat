@@ -1,5 +1,5 @@
 (function () {
-  const api_Url = `${process.env.NEXT_PUBLIC_APP_URL}/api/chat`;
+  const api_Url = "https://embedchat-theta.vercel.app/api/chat";
 
   const scriptTag = document.currentScript;
 
